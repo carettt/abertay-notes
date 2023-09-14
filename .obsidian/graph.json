@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"999 Templates\" -file:\"To-do\" -tag:#topic -path:\"006 Tutoring\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.510416666666667,
+  "repelStrength": 10.1388888888889,
+  "linkStrength": 0.513888888888889,
+  "linkDistance": 254,
+  "scale": 0.6711870912854269,
+  "close": true
+}

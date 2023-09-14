@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "0b687a70706ecc13",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a35e1bc15954ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6b0dac4f3e0435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cornell's Notes Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15eb75eddb3f3d62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "6f4dd744d571477b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4924f7bd85ebce92",
+    "type": "split",
+    "children": [
+      {
+        "id": "259718141309b099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708269e315ce6a77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb762a3640315827",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07e6b5ae38d785d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "defa81a57609f610",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a477ffa86531bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a2feeabdae1a392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f0c821faf4c1e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cornell's Notes Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3365d6d6abb7287b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cornell's Notes Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90367af5aebbf9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6ddab9cc9412dae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cornell's Notes Template.md"
+              }
+            }
+          },
+          {
+            "id": "9825532cc9353b48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15eb75eddb3f3d62",
+  "lastOpenFiles": [
+    "000 Zettelkasten/Title.md",
+    "Cornell's Notes Template.md",
+    "000 Zettelkasten/www.google.com.md",
+    "000 Zettelkasten/Binary Search.md",
+    "To-do.md",
+    "007 Tutoring/Tomas Andrade/Mini-Prelim Revision Paper 2.md",
+    "007 Tutoring/Tomas Andrade/Mini-Prelim Revision Paper.md",
+    "007 Tutoring/Thomas UoL/Powershell/compjava.ps1.md",
+    "007 Tutoring/Thomas UoL/Bowling Scorecard/Scorecard.md",
+    "007 Tutoring/Thomas UoL/Bowling Scorecard/Expo CLI.md",
+    "006 Personal Projects/Project Todos.md",
+    "005 CMP110 - Introduction to Security/Individual Project/Project Proposal Research.md",
+    "004 CMP102 Software Design/Intro to OOP in C++.md",
+    "003 CMP104 - Programming in C++/Welcome.md",
+    "003 CMP104 - Programming in C++/Variables and Data Types.md",
+    "003 CMP104 - Programming in C++/Operators.md",
+    "003 CMP104 - Programming in C++/Identifiers.md",
+    "003 CMP104 - Programming in C++/For Loops.md",
+    "002 CMP101 - CHAOS/Week 2 Lecture.md",
+    "002 CMP101 - CHAOS/Logic Circuit Lecture.md",
+    "002 CMP101 - CHAOS/Binary Data Representation.md",
+    "002 CMP101 - CHAOS/WEMOS Integrative Exercise/Tasks.md",
+    "002 CMP101 - CHAOS/WEMOS Integrative Exercise/JSON Requests.md",
+    "002 CMP101 - CHAOS/WEMOS Integrative Exercise/Brainstorming.md",
+    "998 Files/Pasted image 20230410001459.png",
+    "000 Zettelkasten/Powershell Syntax.md",
+    "000 Zettelkasten/adf.md",
+    "006 Personal Projects/cheese borgor/blender/basics",
+    "006 Personal Projects/cheese borgor/blender",
+    "006 Personal Projects/cheese borgor",
+    "005 CMP110 - Introduction to Security/Individual Project",
+    "998 Files/Pasted image 20230305170144.png",
+    "998 Files/Pasted image 20230305165549.png",
+    "998 Files/Pasted image 20230305161353.png",
+    "998 Files/Pasted image 20230305160357.png"
+  ]
+}
